@@ -1,0 +1,31 @@
+act_name,t_start,t_end
+Arctic Monkeys,29,33
+Billie Eilish,2,9
+Creedence Clearwater Revival,44,47
+Doors,26,30
+Elton John,15,20
+Frank Sinatra,8,15
+George Michael,2,9
+Heideroosjes,30,34
+Ice Cube,1,9
+Jackson 5,20,28
+Kendrick Lamarr,1,4
+Led Zeppelin,2,11
+Madonna,26,29
+Nas,5,10
+Oasis,37,44
+Pearl Jam,27,35
+Queen,36,39
+Rammstein,4,10
+Smashing Pumpkins,35,44
+Tool,22,30
+U2,15,20
+Van Halen,42,46
+Weird Al Yankovich,6,9
+Xzibit,19,23
+Yellowclaw,31,38
+ZZ Top,37,41
+Ludovico Einaudi,30,36
+Foo Fighters,14,21
+Dire Straits,5,13
+Coldplay,33,36
